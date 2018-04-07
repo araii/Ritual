@@ -33,6 +33,7 @@ import UIKit
 //updated with crashnalytics and fabric
 //trying to branch to same git source but my stupid bot can only link up to one git branch
 // so now i will push this change to master
+// canot merge codes so must change bot to git repo at Demo2 lorrrr...
 
 class TaskTableViewCell: UITableViewCell {
   //MARK: Properties
